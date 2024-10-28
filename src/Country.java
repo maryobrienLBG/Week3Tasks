@@ -16,7 +16,7 @@ public class Country extends EU {
         EU fr = new Country("France");
         EU po = new Country("Poland", "Zloty");
         EU it = new Country("Italy");
-        EU cz = new Country("Czech Republic", "Krone");
+        EU cz = new Country("Czech Republic", "Koruna");
 
         Country[] countries = {(Country) fr, (Country) po, (Country) it, (Country) cz};
 
